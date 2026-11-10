@@ -1,0 +1,10 @@
+{
+  "name": "goo",
+  "version": "0.1.0",
+  "description": "Crafted hints for AI, commonly known as skills.",
+  "author": { "name": "ifkit" },
+  "homepage": "https://github.com/ifkit/goo",
+  "repository": "https://github.com/ifkit/goo",
+  "keywords": ["skills", "lazy-dev"],
+  "skills": "./skills/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "goo",
+  "owner": { "name": "ifkit", "url": "https://github.com/ifkit" },
+  "plugins": [
+    {
+      "name": "goo",
+      "source": "./",
+      "description": "Crafted hints for AI, commonly known as skills."
+    }
+  ]
+}
